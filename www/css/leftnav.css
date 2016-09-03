@@ -23,7 +23,7 @@ body {
   bottom: 0;
   width: 50%;
   display: block;
-  background: #3a4043;
+  /*background: #3a4043;*/
   z-index: 1;
 }
 
@@ -71,7 +71,7 @@ body {
 
 .band-a {
   background: #69D2E7;
-  border-radius:15px 0px 0px 15px;
+  border-radius:0px 0px 0px 15px;
 }
 
 .nav {
