@@ -1,9 +1,8 @@
 var load = function()
 {
-
 	$.ajax(
 	{
-		url: 'https://www.reddit.com/r/ShowerThoughts.json',
+		url: 'http://trulymobilearts.com/FYAK/APP/js/listoffacts.json',
 		dataType: 'json',
 		success: function(data)
 		{
